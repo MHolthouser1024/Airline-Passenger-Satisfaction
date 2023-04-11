@@ -168,6 +168,10 @@ For my baseline model I chose to use **logistic regression**. The model performe
 ---
 After extensive analysis, it is evident that Explorer Airlines should prioritize their returning customers. These customers are more likely to purchase additional services, such as seat upgrades, extra baggage allowance, or airport lounge access. Retaining customers is also more cost-effective than attracting new ones due to savings in marketing expenses and the initial bonuses awarded to new mileage program members. With this in mind, one of the goals of using this model should be to minimize the number of misclassified passengers, enabling the airline to reach out to every dissatisfied passenger effectively. To build on that goal, Explorer Airlines needs to ensure they can identify and address the concerns of every dissatisfied returning customer.
 
+To see the full jupyter notebook project please follow this link: [Airline Passenger Satisfaction](https://github.com/MHolthouser1024/Airline-Passenger-Satisfaction/blob/master/final_notebook.ipynb)
+
+To see the powerpoint presentation slides, please follow this link: [Powerpoint Presentation](https://github.com/MHolthouser1024/Airline-Passenger-Satisfaction/blob/master/presentation.pdf)
+
 ### Repository Structure
 ---
 ```
@@ -201,6 +205,7 @@ To use a new virtual environment, there are two steps you need to complete:
     - **conda info --envs**
 
 **Libraries Used**
+- To access these libraries, you can find them in my repository here [mac_environment](https://github.com/MHolthouser1024/Airline-Passenger-Satisfaction/blob/master/mac_environment.yml)
 - numpy-base=1.23.1: NumPy (Numerical Python) is a library that provides support for working with arrays and matrices, along with a collection of mathematical functions to operate on these data structures. It's a foundational library in the Python data science ecosystem.
 
 - pandas=1.1.3: Pandas is a powerful data manipulation and analysis library, providing data structures like Series and DataFrame, which makes it easy to work with structured data like CSV, Excel, and SQL databases. It provides various functions for cleaning, transforming, and analyzing data.
